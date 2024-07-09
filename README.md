@@ -2,6 +2,7 @@
 ## 简介
  - hugo可以用来做博客。
  - hugo-book是一个有用的主题。
+ - 使用示例如下：
 ![image](https://github.com/zgimszhd61/hugo-book-quickstart/assets/114722053/d70180e8-6ebd-451a-a16f-f36cb9ce2bec)
 
 ## 使用方法
